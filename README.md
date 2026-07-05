@@ -79,10 +79,10 @@ Prediction is stored for history tracking
 
 🚀 7. Installation & Setup
 # Clone repository
-git clone https://github.com/USERNAME/REPO_NAME.git
+git clone https://github.com/Harshithalingineni/A-Comprehensive-Measure-of-Well-Being
 
 # Navigate to project folder
-cd AI-ML-and-GEN-AI-Track-Project-Template
+cd aA-Comprehensive-Measure-of-Well-Being
 
 # Install dependencies
 pip install -r requirements.txt
