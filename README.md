@@ -92,7 +92,7 @@ python app.py
 
 🌐 8. Live Demo
 🔗 Application Link:
-https://your-render-link.onrender.com
+https://hdi-prediction-model-9.onrender.com/ 
 
 📊 9. Model Information
 Type: Machine Learning Classification Model
